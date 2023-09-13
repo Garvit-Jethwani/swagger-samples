@@ -1,0 +1,11 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+1,johnDoe,John,Doe,john.doe@gmail.com,123456,1234567890,Active
+2,janeDoe,Jane,Doe,jane.doe@gmail.com,abcdef,0987654321,Inactive
+3,robertSmith,Robert,Smith,robert.smith@gmail.com,654321,1122334455,Active
+4,emilyJohnson,Emily,Johnson,emily.johnson@gmail.com,fedcba,5566778899,Inactive
+5,michaelBrown,Michael,Brown,michael.brown@gmail.com,789456,2233445566,Active
+6,jenniferDavis,Jennifer,Davis,jennifer.davis@gmail.com,abcdefg,7788991122,Inactive
+7,thomasMiller,Thomas,Miller,thomas.miller@gmail.com,987654,3344556677,Active
+8,patriciaWilson,Patricia,Wilson,patricia.wilson@gmail.com,ghijklm,8899112233,Inactive
+9,jamesMoore,James,Moore,james.moore@gmail.com,321654,4455667788,Active
+10,lindaTaylor,Linda,Taylor,linda.taylor@gmail.com,mnopqrs,9911223344,Inactive

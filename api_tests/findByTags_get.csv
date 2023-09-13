@@ -1,0 +1,6 @@
+ID,Name,Email,DateOfBirth,PhoneNumber,Address
+1,John Doe,johndoe@example.com,1980-08-15,1234567890,123 Main St, Anytown, USA
+2,Jane Smith,janesmith@example.com,1990-02-20,0987654321,456 Maple Dr, Somecity, USA
+3,Bob Johnson,bobjohnson@example.com,1975-05-30,1122334455,789 Oak Ln, Othertown, USA
+4,Alice Williams,alicewilliams@example.com,1985-12-10,5566778899,321 Pine Ave, Diffcity, USA
+5,Charlie Brown,charliebrown@example.com,1995-07-15,9988776655,654 Elm Blvd, Anycity, USA
