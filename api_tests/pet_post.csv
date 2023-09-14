@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status
+1,Books,John Doe,https://example.com/photo1.jpg,"Science Fiction, Mystery",Available
+2,Music,Jane Smith,https://example.com/photo2.jpg,"Pop, Rock",Unavailable
+3,Electronics,Robert Brown,https://example.com/photo3.jpg,"Laptops, Mobile Phones",Available
+4,Clothing,Emily Davis,https://example.com/photo4.jpg,"Women's Fashion, Men's Fashion",Unavailable
+5,Furniture,James Wilson,https://example.com/photo5.jpg,"Living Room, Bedroom",Available
+6,Toys,Sarah Johnson,https://example.com/photo6.jpg,"Educational, Action Figures",Unavailable
+7,Games,William Thomas,https://example.com/photo7.jpg,"Board Games, Video Games",Available
+8,Sports,Elizabeth Jackson,https://example.com/photo8.jpg,"Football, Basketball",Unavailable
+9,Beauty,Jessica Taylor,https://example.com/photo9.jpg,"Makeup, Skincare",Available
+10,Automotive,Michael Miller,https://example.com/photo10.jpg,"Car Parts, Motorcycle Parts",Unavailable

@@ -1,0 +1,11 @@
+id,petId,quantity,shipDate,status,complete,customer
+1,101,5,2022-04-01,delivered,True,John Doe
+2,102,3,2022-04-02,shipped,False,Jane Smith
+3,103,1,2022-04-03,delivered,True,Mark Johnson
+4,104,2,2022-04-04,shipped,False,Linda Brown
+5,105,4,2022-04-05,delivered,True,David Davis
+6,106,6,2022-04-06,shipped,False,Emma Wilson
+7,107,3,2022-04-07,delivered,True,Oliver Taylor
+8,108,7,2022-04-08,shipped,False,Mia Thomas
+9,109,2,2022-04-09,delivered,True,Noah Jackson
+10,110,5,2022-04-10,shipped,False,Sophia White

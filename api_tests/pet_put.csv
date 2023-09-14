@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status
+1,Books,John Doe,https://dummyurl.com/photo1.jpg,Novel,Available
+2,Music,Jane Smith,https://dummyurl.com/photo2.jpg,Pop,Unavailable
+3,Electronics,Robert Johnson,https://dummyurl.com/photo3.jpg,Gadget,Available
+4,Clothing,Emily Davis,https://dummyurl.com/photo4.jpg,Fashion,Unavailable
+5,Furniture,David Martin,https://dummyurl.com/photo5.jpg,Modern,Available
+6,Toys,Emma Wilson,https://dummyurl.com/photo6.jpg,Kids,Available
+7,Games,Michael Thompson,https://dummyurl.com/photo7.jpg,Strategy,Unavailable
+8,Sports,Olivia Taylor,https://dummyurl.com/photo8.jpg,Fitness,Available
+9,Beauty,Sophia Anderson,https://dummyurl.com/photo9.jpg,Skincare,Unavailable
+10,Health,James Jackson,https://dummyurl.com/photo10.jpg,Wellness,Available
