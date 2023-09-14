@@ -9,7 +9,7 @@ config:
     expect: {}
   payload:
     path: "createWithArray_post.csv"
-    fields: ["field1", "field2"]
+    fields: ["swaggerField1", "swaggerField2"]
     skipHeader: true
 
 scenarios:
@@ -20,8 +20,8 @@ scenarios:
           headers:
             Authorization: "{{ $processEnvironment.AUTH_TOKEN }}"
           json:
-            field1: "{{ field1 }}"
-            field2: "{{ field2 }}"
+            swaggerField1: "{{ swaggerField1 }}"
+            swaggerField2: "{{ swaggerField2 }}"
           expect:
             - statusCode: 200
             - hasProperty: "data"
@@ -33,8 +33,8 @@ scenarios:
           headers:
             Authorization: "{{ $processEnvironment.AUTH_TOKEN }}"
           json:
-            field1: "{{ field1 }}"
-            field2: "{{ field2 }}"
+            swaggerField1: "{{ swaggerField1 }}"
+            swaggerField2: "{{ swaggerField2 }}"
           expect:
             - statusCode: 400
             - hasProperty: "error"
@@ -46,8 +46,8 @@ scenarios:
           headers:
             Authorization: "{{ $processEnvironment.AUTH_TOKEN }}"
           json:
-            field1: "edge_case_value"
-            field2: "edge_case_value"
+            swaggerField1: "edge_case_value"
+            swaggerField2: "edge_case_value"
           expect:
             - statusCode: 200
             - hasProperty: "data"
