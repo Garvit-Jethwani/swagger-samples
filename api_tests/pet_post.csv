@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status
+1,Technology,John Doe,https://dummyurl.com/photo1.jpg,"Tag1, Tag2, Tag3",Active
+2,Finance,Jane Smith,https://dummyurl.com/photo2.jpg,"Tag4, Tag5, Tag6",Inactive
+3,Marketing,Robert Johnson,https://dummyurl.com/photo3.jpg,"Tag7, Tag8, Tag9",Active
+4,Human Resources,Emily Davis,https://dummyurl.com/photo4.jpg,"Tag10, Tag11, Tag12",Inactive
+5,Administration,James Brown,https://dummyurl.com/photo5.jpg,"Tag13, Tag14, Tag15",Active
+6,Legal,Patricia Taylor,https://dummyurl.com/photo6.jpg,"Tag16, Tag17, Tag18",Inactive
+7,Technology,Michael Miller,https://dummyurl.com/photo7.jpg,"Tag19, Tag20, Tag21",Active
+8,Finance,Linda Wilson,https://dummyurl.com/photo8.jpg,"Tag22, Tag23, Tag24",Inactive
+9,Marketing,William Moore,https://dummyurl.com/photo9.jpg,"Tag25, Tag26, Tag27",Active
+10,Human Resources,Elizabeth Anderson,https://dummyurl.com/photo10.jpg,"Tag28, Tag29, Tag30",Inactive
